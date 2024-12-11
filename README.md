@@ -1,6 +1,6 @@
-# 素晴らしいJavaプロジェクト
-
 ![awesome](assets/java-claude2.png)
+
+# 素晴らしいJavaプロジェクト
 
 参考: https://github.com/akullpp/awesome-java
 
